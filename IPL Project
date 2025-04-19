@@ -1,0 +1,8 @@
+This Power BI dashboard project presents an in-depth analysis of the Indian Premier League (IPL) 2022 season. 
+Using match and player-level data, the dashboard offers insights into team performances, player statistics, venue trends, and more — making it a valuable tool for cricket enthusiasts, analysts, and sports strategists.
+The Dashboard shows the following analysis:
+Match Overview: Match results, winning teams, toss decisions, and venues
+Top Players: Most runs, most wickets, best batting averages, top strike rates
+Venue Analysis: Win distribution by venue and team
+Team Performance: Wins, losses, Margin win trends
+Interactive Filters: Teams,  venues, City and more
